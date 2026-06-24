@@ -1,0 +1,25 @@
+2026-04-08 09:47:58 Array
+(
+    [requestId] => 7a26-4849-ab2a-33c1aff943ba24312
+    [errorCode] => 404.001.03
+    [errorMessage] => Invalid Access Token
+)
+
+2026-04-08 10:12:54 Array
+(
+    [MerchantRequestID] => 7a26-4849-ab2a-33c1aff943ba25441
+    [CheckoutRequestID] => ws_CO_08042026111254422745990145
+    [ResponseCode] => 0
+    [ResponseDescription] => Success. Request accepted for processing
+    [CustomerMessage] => Success. Request accepted for processing
+)
+
+2026-04-08 10:23:29 Array
+(
+    [MerchantRequestID] => 2c4e-45a7-b10a-abd5231c17d3308
+    [CheckoutRequestID] => ws_CO_08042026112328816745990145
+    [ResponseCode] => 0
+    [ResponseDescription] => Success. Request accepted for processing
+    [CustomerMessage] => Success. Request accepted for processing
+)
+
